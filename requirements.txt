@@ -1,0 +1,9 @@
+matplotlib==3.4.2
+streamlit==1.0.0
+pandas==1.3.3
+numpy==1.21.2
+altair==4.1.0
+matplotlib.pyplot
+plotly.express
+seaborn==0.11.1
+datetime 
